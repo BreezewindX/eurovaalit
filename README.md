@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to my "Eurovaalit" repository
 
-You can use the [editor on GitHub](https://github.com/BreezewindX/eurovaalit/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+During my three-month stint as a Research Trainee in the Statistics and Research Unit at the City of Vantaa, I had the opportunity to work on a draft version of a website. This website was intended to showcase the primary statistics and analysis of the European Parliament Elections that took place in May 2019.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My main responsibility was to analyze the data from these elections, which were primarily available in PDF or paper format. As my traineeship neared its end, I decided to explore how we could present this analysis in a more accessible format, specifically as a website. To achieve this, I utilized RStudio and RMarkdown for the coding work.
 
-### Markdown
+The resulting website is primarily in Finnish and was designed to provide a user-friendly platform for accessing the election statistics and analysis. For the best experience, we recommend using the Microsoft Edge browser when viewing the site.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is the [website link](https://breezewindx.github.io/eurovaalit/)
 
-```markdown
-Syntax highlighted code block
+The site contains (through drop-down menus on the top)
+1. Alkusanat / Foreword by head of the election office
+2. Tietoa vaaleista / Information about the elections
+  - Äänestysaktiivisuus / Voter turnout
+  - Vaaliehdokkaat / Election candidates
+  - Äänestystulokset / Election results
+  - Parlamenttiin valitut / Elected to Parliament
+3. Kartat / Maps
+  - Äänestysaktiivisuus / Voter turnout
+  - Suosituimpien puolueiden kannatus / Support of the most popular parties
+    
+Being just a website draft, please note that site navigation is executed simply by clicking tabs, and a complete website navigation is not available.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BreezewindX/eurovaalit/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For exploring a more in-depth data-analysis depository, please see my [IODS course project](https://github.com/BreezewindX/IODS-project/tree/master) , which is my repository of the course "Introduction to Open Data Science", which was a graduate/post-doc level course that I once took.
