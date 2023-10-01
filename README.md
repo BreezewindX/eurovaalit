@@ -19,6 +19,4 @@ The site contains (through drop-down menus on the top)
   - Äänestysaktiivisuus / Voter turnout
   - Suosituimpien puolueiden kannatus / Support of the most popular parties
     
-Being just a website draft, please note that site navigation is executed simply by clicking tabs, and a complete website navigation is not available.
-
-For a more in-depth data analysis repository, please visit my [IODS course project](https://github.com/BreezewindX/IODS-project/tree/master), which is the repository for the 'Introduction to Open Data Science' course, a graduate/post-doc level course that I completed. Here is the direct link to [my course diary](https://breezewindx.github.io/IODS-project/).
+For a more in-depth data analysis repository, please visit my [IODS course project](https://github.com/BreezewindX/IODS-project/tree/master), which is the repository for the 'Introduction to Open Data Science' course, a graduate/post-doc level course that I completed. Here is the direct link to [my course diary](https://breezewindx.github.io/IODS-project/). Due to the numerous graphs included, loading may take a moment.
