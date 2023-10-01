@@ -1,10 +1,10 @@
 ## Welcome to my "Eurovaalit" repository
 
-During my three-month stint as a Research Trainee in the Statistics and Research Unit at the City of Vantaa, I had the opportunity to outline and demonstrate how the results would look on a website. This website was intended to showcase the primary statistics and analysis of the European Parliament Elections that took place in May 2019.
+During my three-month tenure as a Research Trainee in the Statistics and Research Unit at the City of Vantaa, I had the opportunity to outline and demonstrate how the results would appear on a website. This website was created to showcase the primary statistics and analysis of the European Parliament Elections that took place in May 2019.
 
-My main responsibility was to analyze the data from these elections, and the results were primarily made available in PDF or paper format. The election data was imported from a government website. As my traineeship neared its end, I decided to explore how we could present this analysis in a more accessible format, specifically as a website. To achieve this, I utilized RStudio and RMarkdown for the coding work.
+My main responsibility involved analyzing the original election data, which was obtained from a government website. As my traineeship approached its conclusion, I decided to explore ways to present this analysis in a more accessible format, specifically as a website. To accomplish this, I utilized RStudio and RMarkdown for the coding work.
 
-The resulting website is primarily in Finnish and was designed to provide a user-friendly platform for accessing the election statistics and analysis. For the best experience, we recommend using the Microsoft Edge browser when viewing the site.
+It's worth noting that the resulting website, being a quick first draft, may not be as user-friendly as desired. It is primarily in Finnish and was designed with the aim of offering a preliminary platform for accessing the election statistics and analysis. For an optimal experience, please consider using the Microsoft Edge browser when viewing the site.
 
 Here is the [website link](https://breezewindx.github.io/eurovaalit/).
 
@@ -21,4 +21,4 @@ The site contains (through drop-down menus on the top)
     
 Being just a website draft, please note that site navigation is executed simply by clicking tabs, and a complete website navigation is not available.
 
-For a more in-depth data analysis repository, please visit my [IODS course project](https://github.com/BreezewindX/IODS-project/tree/master), which is the repository for the 'Introduction to Open Data Science' course, a graduate/post-doc level course that I completed.
+For a more in-depth data analysis repository, please visit my [IODS course project](https://github.com/BreezewindX/IODS-project/tree/master), which is the repository for the 'Introduction to Open Data Science' course, a graduate/post-doc level course that I completed. Here is the direct link to [my course diary](https://breezewindx.github.io/IODS-project/).
