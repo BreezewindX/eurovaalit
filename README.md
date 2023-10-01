@@ -6,7 +6,7 @@ My main responsibility was to analyze the data from these elections, and the res
 
 The resulting website is primarily in Finnish and was designed to provide a user-friendly platform for accessing the election statistics and analysis. For the best experience, we recommend using the Microsoft Edge browser when viewing the site.
 
-Here is the [website link](https://breezewindx.github.io/eurovaalit/)
+Here is the [website link](https://breezewindx.github.io/eurovaalit/).
 
 The site contains (through drop-down menus on the top)
 1. Alkusanat / Foreword by head of the election office
