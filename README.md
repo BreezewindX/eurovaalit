@@ -2,7 +2,7 @@
 
 During my three-month stint as a Research Trainee in the Statistics and Research Unit at the City of Vantaa, I had the opportunity to work on a draft version of a website. This website was intended to showcase the primary statistics and analysis of the European Parliament Elections that took place in May 2019.
 
-My main responsibility was to analyze the data from these elections, which were primarily available in PDF or paper format. As my traineeship neared its end, I decided to explore how we could present this analysis in a more accessible format, specifically as a website. To achieve this, I utilized RStudio and RMarkdown for the coding work.
+My main responsibility was to analyze the data from these elections, which were primarily made available in PDF or paper format. The election data was imported from a government website. As my traineeship neared its end, I decided to explore how we could present this analysis in a more accessible format, specifically as a website. To achieve this, I utilized RStudio and RMarkdown for the coding work.
 
 The resulting website is primarily in Finnish and was designed to provide a user-friendly platform for accessing the election statistics and analysis. For the best experience, we recommend using the Microsoft Edge browser when viewing the site.
 
