@@ -21,4 +21,4 @@ The site contains (through drop-down menus on the top)
     
 Being just a website draft, please note that site navigation is executed simply by clicking tabs, and a complete website navigation is not available.
 
-For exploring a more in-depth data-analysis depository, please see my [IODS course project](https://github.com/BreezewindX/IODS-project/tree/master) , which is my repository of the course "Introduction to Open Data Science", which was a graduate/post-doc level course that I once took.
+For a more in-depth data analysis repository, please visit my [IODS course project](https://github.com/BreezewindX/IODS-project/tree/master), which is the repository for the 'Introduction to Open Data Science' course, a graduate/post-doc level course that I completed.
